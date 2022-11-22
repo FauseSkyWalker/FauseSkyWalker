@@ -24,11 +24,11 @@ Here are some ideas to get you started:
   <img align="center" alt="Fause-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Fause-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Fause-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Fause-pic" height="150" style="border-radius:50px;" src="https://giphy.com/embed/a5viI92PAF89q">
+  <img align="right" alt="Fause-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90693864/203186504-49b90a22-ee38-4c62-903d-93f78da5e617.gif">
 </div>  
-         "https://cdn.discordapp.com/attachments/1042955219656527892/1044408141888094289/unknown.png"
+         
   
-  https://discord.com/channels/687703083479859220/1042955219656527892/1044410399040217098/unknown.Gif"
+  
 ##
   
 <div>
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/fause-junior-363717244/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
-  "https://www.linkedin.com/in/fause-junior-363717244/"
+  
