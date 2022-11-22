@@ -1,18 +1,10 @@
-### Hi there 👋
+### 🦇Olá, Bem-vindos a Bat-Caverna🦇
 
-
-**FauseSkyWalker/FauseSkyWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🦸🏻‍♂️ Eu sou o Fause Carlos 
+- 🔭 Sempre querendo aprender mais
+- 📖 Estudante de Engenharia de Software pela Universidade de Brasília (UNB)
+- 🤔 Aprendendo: Java, C, Assembly, Python, MYSQL
+- 📲 Me manda uma mensagem: ⤵️
 
 <div align="center">
   <a href="https://github.com/FauseSkyWalker">
@@ -24,7 +16,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Fause-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Fause-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Fause-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Fause-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90693864/203186504-49b90a22-ee38-4c62-903d-93f78da5e617.gif">
+  <img align="right" alt="Fause-pic" height="100" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90693864/203186504-49b90a22-ee38-4c62-903d-93f78da5e617.gif">
 </div>  
          
   
