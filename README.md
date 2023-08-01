@@ -1,4 +1,4 @@
-### 🦇Olá, Bem-vindos a Bat-Caverna🦇
+### 🦇Welcome to the bat-cave🦇
 
 <div align="left">
 
@@ -6,23 +6,23 @@
   
   
 <p align="left">
-- 🦸🏻‍♂️ Eu sou o Fause Carlos
+- 🦸🏻‍♂️ I´m Fause Carlos
 </p>   
   
 <p align="left">  
-- 🔭 Sempre querendo aprender mais
+- 🔭 always wanting to learn more
 </p> 
   
 <p align="left">
-- 📖 Estudante de Engenharia de Software pela Universidade de Brasília (UNB)
+- 📖 Student of Software Engineering at the University of Brasilia (UNB)
 </p> 
   
 <p align="left">
-- 🤔 Aprendendo: Java, C, Assembly, Python, MYSQL
+- 🤔 Learning: Java, C, Assembly, Python, MYSQL
 </p> 
   
 <p align="left">
-- 📲 Me manda uma mensagem: ⤵️
+- 📲 Send me a message: ⤵️
 </p> 
   
   
