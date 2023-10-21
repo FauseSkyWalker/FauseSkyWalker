@@ -18,7 +18,7 @@
 </p> 
   
 <p align="left">
-- 🤔 Learning: Java, C, Assembly, Python, MYSQL
+- 🤔 Learning: Java,C,C++,Assembly, Python, MYSQL
 </p> 
   
 <p align="left">
